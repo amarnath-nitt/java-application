@@ -7,7 +7,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter value of n: ");
         int n = sc.nextInt();
-        System.out.println((n % 2 == 0) ? "Even number." : "Odd number.");
+        System.out.println((n % 2 == 0) ? "Provided number is even number." : "Provided number is odd number.");
         sc.close();
     }
 }
