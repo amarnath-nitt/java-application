@@ -1,4 +1,4 @@
-package oops.classesandobjects.exceptionhandling.TryCatch;
+package oops.classesandobjects.exceptionhandling.trycatch;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package oops.classesandobjects.finalkeyword.FinalClass;
+package oops.classesandobjects.finalkeyword.finalclass;
 
 //public class Main extends Student {
 	// We can not extends a final class, that's why this error is coming;

@@ -1,4 +1,4 @@
-package oops.classesandobjects.finalkeyword.FinalMethod;
+package oops.classesandobjects.finalkeyword.finalmethod;
 
 public class Main extends Student {
     
